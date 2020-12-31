@@ -1,0 +1,217 @@
+Welcome the New Social Network
+Please Select one of the following options:
+
+	1.) Create a new Profile
+	2.) Sign in to existing account
+	3.) Exit
+
+1
+Please enter the following: 
+
+First Name: bob
+Last Name: no
+Birth Year: 1967
+Username: bobNo
+Password: nopassword
+
+
+Login: 
+Username: bobNo
+Password: nopassword
+
+
+*******************************
+[Profile] 
+Name: bob no
+Year Born: 1967
+---------
+|       |
+| image |
+|       |
+---------
+
+Options:
+	1) Edit Profile:
+	2) View Friends List: 
+	3) Add friends:
+	4) Add post
+	5) Log Out
+	6) Delete Account
+*******************************
+Enter: 1
+What would you like to edit?
+1.) First Name
+2.) Last Name
+3.) Year of Birth
+3
+Enter your year of birth
+1988
+
+
+*******************************
+[Profile] 
+Name: bob no
+Year Born: 1988
+---------
+|       |
+| image |
+|       |
+---------
+
+Options:
+	1) Edit Profile:
+	2) View Friends List: 
+	3) Add friends:
+	4) Add post
+	5) Log Out
+	6) Delete Account
+*******************************
+Enter: 2
+You have not added your friends!
+
+
+*******************************
+[Profile] 
+Name: bob no
+Year Born: 1988
+---------
+|       |
+| image |
+|       |
+---------
+
+Options:
+	1) Edit Profile:
+	2) View Friends List: 
+	3) Add friends:
+	4) Add post
+	5) Log Out
+	6) Delete Account
+*******************************
+Enter: 5
+Welcome the New Social Network
+Please Select one of the following options:
+
+	1.) Create a new Profile
+	2.) Sign in to existing account
+	3.) Exit
+
+1
+Please enter the following: 
+
+First Name: john
+Last Name: john
+Birth Year: 2000
+Username: jony123
+Password: john
+
+
+Login: 
+Username: jony123
+Password: john
+
+
+*******************************
+[Profile] 
+Name: john john
+Year Born: 2000
+---------
+|       |
+| image |
+|       |
+---------
+
+Options:
+	1) Edit Profile:
+	2) View Friends List: 
+	3) Add friends:
+	4) Add post
+	5) Log Out
+	6) Delete Account
+*******************************
+Enter: 3
+Search the name of the person you would like to add
+Include First and Last Name(With Space included!):
+
+Here are some options: 
+bob no
+Search: bob no
+Added!
+
+
+*******************************
+[Profile] 
+Name: john john
+Year Born: 2000
+---------
+|       |
+| image |
+|       |
+---------
+
+Options:
+	1) Edit Profile:
+	2) View Friends List: 
+	3) Add friends:
+	4) Add post
+	5) Log Out
+	6) Delete Account
+*******************************
+Enter: 2
+Friends List: 
+1.) bob no
+
+
+*******************************
+[Profile] 
+Name: john john
+Year Born: 2000
+---------
+|       |
+| image |
+|       |
+---------
+
+Options:
+	1) Edit Profile:
+	2) View Friends List: 
+	3) Add friends:
+	4) Add post
+	5) Log Out
+	6) Delete Account
+*******************************
+Enter: 4
+What would you like the world to know...
+Nothing much...
+
+
+*******************************
+[Profile] 
+Name: john john
+Year Born: 2000
+---------
+|       |
+| image |
+|       |
+---------
+
+Options:
+	1) Edit Profile:
+	2) View Friends List: 
+	3) Add friends:
+	4) Add post
+	5) Log Out
+	6) Delete Account
+*******************************
+[Post] -->Nothing much...
+*******************************
+Enter: 5
+Welcome the New Social Network
+Please Select one of the following options:
+
+	1.) Create a new Profile
+	2.) Sign in to existing account
+	3.) Exit
+
+3
+Have a wonderful day!
